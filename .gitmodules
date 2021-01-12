@@ -1,0 +1,4 @@
+[submodule "devops"]
+	path = test_devops
+	url = https://github.com/sujithmelur/test_devops
+	branch = master
